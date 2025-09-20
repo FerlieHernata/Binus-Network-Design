@@ -15,9 +15,11 @@ Desain dibuat menggunakan **Cisco Packet Tracer**, dengan fokus pada topologi ja
 ## Struktur Repo
 /diagram
 binus-network.pkt
-binus-network.png
+Lantai-1.png
+Lantai-3.png
+Lantai-6.png
 /docs
-subnetting.pdf
+Networks.pdf
 README.md
 
 ## Anggota Kelompok
